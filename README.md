@@ -1,0 +1,1 @@
+# NN-CNN-Gradient-Loss-Expiraments-Seperated-Per-layer-
