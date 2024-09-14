@@ -1,4 +1,4 @@
-# README: Layer-Specific Loss Analysis in NN and CNN Architectures
+# Layer-Specific Loss Analysis in NN and CNN Architectures
 
 ## Overview
 In this project I explore the learning dynamics and performance of Neural Networks (NNs) and Convolutional Neural Networks (CNNs) through analyzing their behavior under different experimental setups. I focus on how isolating layers or applying per-layer loss penalties affect overall model training and generalization. I experiment on the MNIST dataset. The goal is to examine per-layer outputs, loss, and accuracy trends across epochs, with a focus on determining the effectiveness of traditional training versus more complex strategies like layer isolation and per-layer loss.
